@@ -1,0 +1,13 @@
+# Runtime temp files
+.tmp/transcript.txt
+.tmp/asr.pid
+
+# ASR model directory (large, downloaded separately)
+model/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
